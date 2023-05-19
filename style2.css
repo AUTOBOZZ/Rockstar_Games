@@ -12135,6 +12135,7 @@ textarea.form-control-lg {
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    cursor: default;
     
 }
 
@@ -12182,6 +12183,7 @@ textarea.form-control-lg {
 
 .dnd span1{
     color: rgb(255, 179, 0);
+    cursor: pointer;
 }
 
 .dnd span1:hover{
@@ -12198,6 +12200,7 @@ span3{
 span2{
     color: rgb(133, 133, 133);
     font-size: small;
+    cursor: pointer;
 }
 
 span2:hover{
@@ -12205,11 +12208,6 @@ span2:hover{
     border-bottom: 1px solid rgb(133, 133, 133);
     
 }
-
-
-
-/* sadahaajsskkskkskskskkksks */
-
 
 
 
